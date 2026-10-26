@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node --watch --import tsx src/dev.ts",
     "start": "tsx src/dev.ts",
-    "build": "tsc --noEmit",
+    "build": "node ../../scripts/optimize-assets.mjs && tsc --noEmit",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "deploy:preview": "vercel deploy",

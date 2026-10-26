@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
-  "buildCommand": "cd ../.. && pnpm --filter @sa/shared build && pnpm assets:optimize",
+  "buildCommand": "cd ../.. && pnpm --filter @sa/shared build && pnpm --filter @sa/api build",
   "headers": [
     {
       "source": "/media/(.*)",
