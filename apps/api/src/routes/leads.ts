@@ -8,11 +8,11 @@ import {
   toE164Vn,
 } from "@sa/shared";
 import { type Context, Hono } from "hono";
-import type { ResolvedDeps } from "../app";
-import { newLeadId, sha256Hex } from "../lib/crypto";
-import { dispatchLead } from "../lib/dispatch";
-import { log } from "../lib/logger";
-import { verifyPhoneProof } from "../lib/phone-proof";
+import type { ResolvedDeps } from "../app.js";
+import { newLeadId, sha256Hex } from "../lib/crypto.js";
+import { dispatchLead } from "../lib/dispatch.js";
+import { log } from "../lib/logger.js";
+import { verifyPhoneProof } from "../lib/phone-proof.js";
 
 export function clientIp(c: Context): string {
   return (

@@ -1,7 +1,7 @@
 import type { EnrichedLead } from "@sa/shared";
 import { JWT } from "google-auth-library";
-import { httpFetch } from "../lib/http";
-import { type LeadSink, PermanentSinkError } from "./types";
+import { httpFetch } from "../lib/http.js";
+import { type LeadSink, PermanentSinkError } from "./types.js";
 
 export interface SheetsConfig {
   spreadsheetId: string;

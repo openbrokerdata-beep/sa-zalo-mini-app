@@ -3,15 +3,15 @@ import { Hono } from "hono";
 import { bodyLimit } from "hono/body-limit";
 import { cors } from "hono/cors";
 import { secureHeaders } from "hono/secure-headers";
-import type { Env } from "./env";
-import { httpFetch } from "./lib/http";
-import { MemoryIdempotencyStore } from "./lib/idempotency";
-import { log } from "./lib/logger";
-import { MemoryRateLimiter } from "./lib/rate-limit";
-import type { FetchLike } from "./lib/zalo";
-import { leadRoutes } from "./routes/leads";
-import { zaloRoutes } from "./routes/zalo";
-import { createSinks, type LeadSink } from "./sinks";
+import type { Env } from "./env.js";
+import { httpFetch } from "./lib/http.js";
+import { MemoryIdempotencyStore } from "./lib/idempotency.js";
+import { log } from "./lib/logger.js";
+import { MemoryRateLimiter } from "./lib/rate-limit.js";
+import type { FetchLike } from "./lib/zalo.js";
+import { leadRoutes } from "./routes/leads.js";
+import { zaloRoutes } from "./routes/zalo.js";
+import { createSinks, type LeadSink } from "./sinks/index.js";
 
 export interface AppDeps {
   env: Env;

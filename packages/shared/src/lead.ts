@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { normalizeVnPhone } from "./phone";
+import { normalizeVnPhone } from "./phone.js";
 
 /** Dòng sản phẩm quan tâm — khớp 3 dòng SP của dự án + "chưa xác định". */
 export const PRODUCT_INTERESTS = [

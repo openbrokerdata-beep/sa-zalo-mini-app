@@ -1,11 +1,11 @@
 import type { EnrichedLead } from "@sa/shared";
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { createApp } from "../src/app";
-import { loadEnv } from "../src/env";
-import { signPhoneProof, verifyPhoneProof } from "../src/lib/phone-proof";
-import type { FetchLike } from "../src/lib/zalo";
-import { toSheetRow } from "../src/sinks/sheets";
-import { type LeadSink, PermanentSinkError } from "../src/sinks/types";
+import { createApp } from "../src/app.js";
+import { loadEnv } from "../src/env.js";
+import { signPhoneProof, verifyPhoneProof } from "../src/lib/phone-proof.js";
+import type { FetchLike } from "../src/lib/zalo.js";
+import { toSheetRow } from "../src/sinks/sheets.js";
+import { type LeadSink, PermanentSinkError } from "../src/sinks/types.js";
 
 const env = loadEnv({
   APP_ENV: "local",

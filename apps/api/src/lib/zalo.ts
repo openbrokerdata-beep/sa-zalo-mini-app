@@ -1,7 +1,7 @@
 import { normalizeVnPhone } from "@sa/shared";
-import type { FetchLike } from "./http";
+import type { FetchLike } from "./http.js";
 
-export type { FetchLike } from "./http";
+export type { FetchLike } from "./http.js";
 
 export class ZaloApiError extends Error {
   override name = "ZaloApiError";

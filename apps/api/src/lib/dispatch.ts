@@ -1,6 +1,6 @@
 import type { EnrichedLead } from "@sa/shared";
-import { type LeadSink, PermanentSinkError } from "../sinks/types";
-import { log } from "./logger";
+import { type LeadSink, PermanentSinkError } from "../sinks/types.js";
+import { log } from "./logger.js";
 
 export interface DispatchOptions {
   attempts?: number;

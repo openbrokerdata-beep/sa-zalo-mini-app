@@ -1,10 +1,10 @@
-import type { Env, SinkName } from "../env";
-import { ConsoleSink } from "./console";
-import { CrmWebhookSink } from "./crm-webhook";
-import { GoogleSheetsSink } from "./sheets";
-import type { LeadSink } from "./types";
+import type { Env, SinkName } from "../env.js";
+import { ConsoleSink } from "./console.js";
+import { CrmWebhookSink } from "./crm-webhook.js";
+import { GoogleSheetsSink } from "./sheets.js";
+import type { LeadSink } from "./types.js";
 
-export type { LeadSink } from "./types";
+export type { LeadSink } from "./types.js";
 
 /** Đăng ký sink: thêm đích mới = thêm 1 dòng ở đây + tên trong SINK_NAMES (env.ts). */
 const factories: Record<SinkName, (env: Env) => LeadSink> = {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { leadInputSchema, normalizeVnPhone } from "../src";
+import { leadInputSchema, normalizeVnPhone } from "../src/index.js";
 
 describe("normalizeVnPhone", () => {
   it.each([

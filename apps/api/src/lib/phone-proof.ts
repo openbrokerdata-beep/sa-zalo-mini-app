@@ -1,4 +1,4 @@
-import { hmacHex, safeEqual } from "./crypto";
+import { hmacHex, safeEqual } from "./crypto.js";
 
 const TTL_MS = 30 * 60 * 1000;
 
