@@ -1,0 +1,29 @@
+{
+  "name": "sa-zalo-mini-app",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Senturia An Phú — Zalo Mini App thu lead + Lead API đẩy sang CRM & Google Sheets",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "dev": "pnpm --parallel --stream --filter @sa/api --filter @sa/miniapp dev",
+    "dev:miniapp": "pnpm --filter @sa/miniapp dev",
+    "dev:api": "pnpm --filter @sa/api dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write .",
+    "check": "pnpm lint && pnpm typecheck && pnpm test",
+    "assets:optimize": "node scripts/optimize-assets.mjs",
+    "assets:check": "node scripts/check-bundle-size.mjs"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.4",
+    "sharp": "^0.34.4",
+    "typescript": "^5.9.3"
+  }
+}

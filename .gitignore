@@ -1,0 +1,25 @@
+node_modules/
+dist/
+www/
+.vercel/
+.turbo/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+
+# env & secrets
+.env
+.env.*
+!.env.example
+*.pem
+service-account*.json
+
+# generated assets (built by scripts/optimize-assets.mjs, deployed with apps/api)
+apps/api/public/media/*
+!apps/api/public/media/.gitkeep
+
+# zmp
+.zmp/
+
+CLAUDE.md

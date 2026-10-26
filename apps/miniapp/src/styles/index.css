@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* TODO(UI-01): self-host Playfair Display + Be Vietnam Pro (woff2, subset vietnamese) trong src/styles/fonts */
+
+:root {
+  --sa-forest: #0b4c3a;
+  --sa-gold: #d39538;
+  --sa-cream: #f7f3ea;
+  --zmp-primary-color: var(--sa-forest);
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--sa-cream);
+  color: #1f2a26;
+  font-family: "Be Vietnam Pro", -apple-system, Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+@layer components {
+  .sa-section {
+    @apply px-4 py-10;
+  }
+  .sa-eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.2em] text-gold;
+  }
+  .sa-title {
+    @apply mt-2 font-display text-[28px] leading-tight text-forest;
+  }
+  .sa-body {
+    @apply mt-3 text-[15px] leading-relaxed text-ink-muted;
+  }
+}

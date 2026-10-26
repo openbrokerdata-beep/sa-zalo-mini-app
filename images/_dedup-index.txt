@@ -1,0 +1,125 @@
+﻿=== UNIQUE FILE (chi xuat hien 1 lan) ===
+-- A-only (2) --
+senturia-info\doi-tac\doi-tac_pca.jpg
+senturia-info\favicon\favicon_favicon.svg
+-- B-only (70) --
+senturia-com-vn\banner\banner_banner1.jpg
+senturia-com-vn\banner\banner_banner1-mb.jpg
+senturia-com-vn\banner\banner_banner2.jpg
+senturia-com-vn\banner\banner_banner2-mb.jpg
+senturia-com-vn\banner\banner_banner3.jpg
+senturia-com-vn\banner\banner_banner3-mb.jpg
+senturia-com-vn\banner\banner_banner4.jpg
+senturia-com-vn\banner\banner_banner4-mb.jpg
+senturia-com-vn\banner\banner_banner5.jpg
+senturia-com-vn\banner\banner_banner5-mb.jpg
+senturia-com-vn\footer\footer_logo_footer.svg
+senturia-com-vn\header-logo\header-logo_logo.svg
+senturia-com-vn\header-logo\header-logo_logo_mb.svg
+senturia-com-vn\header-logo\header-logo_logo_text.svg
+senturia-com-vn\hero\hero_hero-ldp-mb.jpg
+senturia-com-vn\hero\hero_kety.mp4
+senturia-com-vn\hinh-anh-du-an\hinh-anh-du-an_kv.jpg
+senturia-com-vn\hinh-anh-du-an\hinh-anh-du-an_kv-mb.jpg
+senturia-com-vn\mat-bang\mat-bang_arena_detail.jpg
+senturia-com-vn\popup\popup_overlay_menu.jpg
+senturia-com-vn\popup\popup_pop_up_mb.jpg
+senturia-com-vn\popup\popup_pop-up.jpg
+senturia-com-vn\quy-hoach\quy-hoach_legacy_1.svg
+senturia-com-vn\quy-hoach\quy-hoach_legacy_2.svg
+senturia-com-vn\quy-hoach\quy-hoach_legacy_3.svg
+senturia-com-vn\san-pham\san-pham_arena1-1.jpg
+senturia-com-vn\san-pham\san-pham_arena1-2.png
+senturia-com-vn\san-pham\san-pham_arena1-3.jpg
+senturia-com-vn\san-pham\san-pham_arena1-3.png
+senturia-com-vn\san-pham\san-pham_arena1-4.png
+senturia-com-vn\san-pham\san-pham_arena1-5.jpg
+senturia-com-vn\san-pham\san-pham_arena1-6.jpg
+senturia-com-vn\san-pham\san-pham_arena1-7.jpg
+senturia-com-vn\san-pham\san-pham_arena2-0.jpg
+senturia-com-vn\san-pham\san-pham_arena2-1.jpg
+senturia-com-vn\san-pham\san-pham_arena2-2.jpg
+senturia-com-vn\san-pham\san-pham_arena2-3.png
+senturia-com-vn\san-pham\san-pham_arena3-0.jpg
+senturia-com-vn\san-pham\san-pham_arena3-1.jpg
+senturia-com-vn\san-pham\san-pham_arena3-2.jpg
+senturia-com-vn\san-pham\san-pham_arena3-3.jpg
+senturia-com-vn\san-pham\san-pham_arena3-4.jpg
+senturia-com-vn\thien-nhien\thien-nhien_about-ldp-mb.jpg
+senturia-com-vn\thiet-ke\thiet-ke_design-ldp-mb.jpg
+senturia-com-vn\tien-do\tien-do_process_T6.2026_4.jpg
+senturia-com-vn\tien-do\tien-do_process1.jpg
+senturia-com-vn\tien-do\tien-do_process2.jpg
+senturia-com-vn\tien-do\tien-do_process3.jpg
+senturia-com-vn\tien-do\tien-do_process4.jpg
+senturia-com-vn\tien-do\tien-do_process5.jpg
+senturia-com-vn\tien-do\tien-do_process6.jpg
+senturia-com-vn\tien-do\tien-do_process7.jpg
+senturia-com-vn\tien-do\tien-do_process8.jpg
+senturia-com-vn\tin-tuc\tin-tuc_01_dau-la-tam-diem-an-cu-dau-tu.jpg
+senturia-com-vn\tin-tuc\tin-tuc_02_thanh-toan-chi-tu-30.jpg
+senturia-com-vn\tin-tuc\tin-tuc_03_don-song-metro-cao-toc-bac-nam.jpg
+senturia-com-vn\tin-tuc\tin-tuc_04-hap-dan-gioi-tinh-hoa.jpg
+senturia-com-vn\tin-tuc\tin-tuc_05_phap-ly-chuan-chinh-hang-dau.jpg
+senturia-com-vn\tin-tuc\tin-tuc_06_home-resort-thien-nhien.jpg
+senturia-com-vn\ui\ui_arrow_left.svg
+senturia-com-vn\ui\ui_arrow_left_alt_green.svg
+senturia-com-vn\ui\ui_arrow_right.svg
+senturia-com-vn\ui\ui_arrow_right_alt_green.svg
+senturia-com-vn\ui\ui_arrow_right_alt_green_link.svg
+senturia-com-vn\ui\ui_calendar.svg
+senturia-com-vn\ui\ui_lua.mp4
+senturia-com-vn\ui\ui_thumbnail.jpg
+senturia-com-vn\vi-tri\vi-tri_beach.svg
+senturia-com-vn\vi-tri\vi-tri_market.svg
+senturia-com-vn\vi-tri\vi-tri_plane_o.svg
+
+=== SHARED / TRUNG (xuat hien >=2 lan) ===
+[2] senturia-com-vn\footer\footer_silk.png | senturia-com-vn\quy-hoach\quy-hoach_silk.png
+[2] senturia-com-vn\header-logo\header-logo_dark_logo.png | senturia-info\header-logo\header-logo_dark_logo.png
+[2] senturia-com-vn\mat-bang\mat-bang_arena.jpg | senturia-info\mat-bang\mat-bang_arena.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_SD1.jpg | senturia-info\mat-bang\mat-bang_SD1.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_SH1.jpg | senturia-info\mat-bang\mat-bang_SH1.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_SH2.jpg | senturia-info\mat-bang\mat-bang_SH2.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_SH3.jpg | senturia-info\mat-bang\mat-bang_SH3.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_TH1.jpg | senturia-info\mat-bang\mat-bang_TH1.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_TH2.jpg | senturia-info\mat-bang\mat-bang_TH2.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_TH3.jpg | senturia-info\mat-bang\mat-bang_TH3.jpg
+[2] senturia-com-vn\mat-bang\mat-bang_TH4.jpg | senturia-info\mat-bang\mat-bang_TH4.jpg
+[2] senturia-com-vn\san-pham\san-pham_arena1.jpg | senturia-info\san-pham\san-pham_arena1.jpg
+[2] senturia-com-vn\san-pham\san-pham_arena2.jpg | senturia-info\san-pham\san-pham_arena2.jpg
+[2] senturia-com-vn\san-pham\san-pham_arena3.jpg | senturia-info\san-pham\san-pham_arena3.jpg
+[2] senturia-com-vn\thien-nhien\thien-nhien_about.jpg | senturia-info\thien-nhien\thien-nhien_about.jpg
+[2] senturia-com-vn\thiet-ke\thiet-ke_architecture.jpg | senturia-info\hero\hero_architecture.jpg
+[2] senturia-com-vn\tien-do\tien-do_process_T6.2026_1.jpg | senturia-info\tien-do\tien-do_process_T6.2026_1.jpg
+[2] senturia-com-vn\tien-do\tien-do_process_T6.2026_2.jpg | senturia-info\tien-do\tien-do_process_T6.2026_2.jpg
+[2] senturia-com-vn\tien-do\tien-do_process_T6.2026_3.jpg | senturia-info\tien-do\tien-do_process_T6.2026_3.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-1.jpg | senturia-info\tien-ich\tien-ich_bf-1.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-10.jpg | senturia-info\tien-ich\tien-ich_bf-10.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-11.jpg | senturia-info\tien-ich\tien-ich_bf-11.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-12.jpg | senturia-info\tien-ich\tien-ich_bf-12.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-2.jpg | senturia-info\tien-ich\tien-ich_bf-2.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-3.jpg | senturia-info\tien-ich\tien-ich_bf-3.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-5.jpg | senturia-info\tien-ich\tien-ich_bf-5.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-6.jpg | senturia-info\tien-ich\tien-ich_bf-6.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-8.jpg | senturia-info\tien-ich\tien-ich_bf-8.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_bf-9.jpg | senturia-info\tien-ich\tien-ich_bf-9.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_phonggym.jpg | senturia-info\tien-ich\tien-ich_phonggym.jpg
+[2] senturia-com-vn\tien-ich\tien-ich_sandanang.jpg | senturia-info\tien-ich\tien-ich_sandanang.jpg
+[2] senturia-com-vn\ve-chung-toi\ve-chung-toi_FD.svg | senturia-info\doi-tac\doi-tac_FD.svg
+[2] senturia-com-vn\ve-chung-toi\ve-chung-toi_NP.svg | senturia-info\doi-tac\doi-tac_NP.svg
+[2] senturia-com-vn\ve-chung-toi\ve-chung-toi_OO.svg | senturia-info\doi-tac\doi-tac_OO.svg
+[2] senturia-com-vn\ve-chung-toi\ve-chung-toi_SV.svg | senturia-info\doi-tac\doi-tac_SV.svg
+[2] senturia-com-vn\ve-chung-toi\ve-chung-toi_TP.svg | senturia-info\doi-tac\doi-tac_TP.svg
+[2] senturia-com-vn\vi-tri\vi-tri_map_icons.svg | senturia-info\vi-tri\vi-tri_map_icons.svg
+[2] senturia-com-vn\vi-tri\vi-tri_map_road.svg | senturia-info\vi-tri\vi-tri_map_road.svg
+[2] senturia-com-vn\vi-tri\vi-tri_map_text.svg | senturia-info\vi-tri\vi-tri_map_text.svg
+[2] senturia-com-vn\vi-tri\vi-tri_map_water.svg | senturia-info\vi-tri\vi-tri_map_water.svg
+
+=== TIN-TUC ACTUAL FILENAMES ===
+tin-tuc_01_dau-la-tam-diem-an-cu-dau-tu.jpg
+tin-tuc_02_thanh-toan-chi-tu-30.jpg
+tin-tuc_03_don-song-metro-cao-toc-bac-nam.jpg
+tin-tuc_04-hap-dan-gioi-tinh-hoa.jpg
+tin-tuc_05_phap-ly-chuan-chinh-hang-dau.jpg
+tin-tuc_06_home-resort-thien-nhien.jpg

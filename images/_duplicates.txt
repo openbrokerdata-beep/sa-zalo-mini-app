@@ -1,0 +1,160 @@
+﻿HASH 1224EEA117539CE1159440F8F54A22AE  (456609 bytes)  x2
+    senturia-com-vn\footer\footer_silk.png
+    senturia-com-vn\quy-hoach\quy-hoach_silk.png
+
+HASH 8B70897AD6B874E31A4C2384665CD432  (4413 bytes)  x2
+    senturia-com-vn\header-logo\header-logo_dark_logo.png
+    senturia-info\header-logo\header-logo_dark_logo.png
+
+HASH EC63EB0FFA719708F3D493D02D0B64EC  (688935 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_arena.jpg
+    senturia-info\mat-bang\mat-bang_arena.jpg
+
+HASH 7315459375CDC68A0998F8DCC8050A18  (66010 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_SD1.jpg
+    senturia-info\mat-bang\mat-bang_SD1.jpg
+
+HASH 2013B1D64C28A2BF8CBDF612E31215AA  (60595 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_SH1.jpg
+    senturia-info\mat-bang\mat-bang_SH1.jpg
+
+HASH 8362FF8BA5DB0260C312BE71E94E824D  (58515 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_SH2.jpg
+    senturia-info\mat-bang\mat-bang_SH2.jpg
+
+HASH DECBAF26A9381072C0B2A048ED2A7988  (59231 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_SH3.jpg
+    senturia-info\mat-bang\mat-bang_SH3.jpg
+
+HASH 8A2F2741BE4D01BC8641C53BDE0538AA  (54036 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_TH1.jpg
+    senturia-info\mat-bang\mat-bang_TH1.jpg
+
+HASH 70336A4DE5C17A93E5C83D5EB9DD1289  (60390 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_TH2.jpg
+    senturia-info\mat-bang\mat-bang_TH2.jpg
+
+HASH 80E857874992F585779EA1CDEFD66221  (57528 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_TH3.jpg
+    senturia-info\mat-bang\mat-bang_TH3.jpg
+
+HASH F8E1D2E36973E1FBD6A74CAD563D9A0E  (62280 bytes)  x2
+    senturia-com-vn\mat-bang\mat-bang_TH4.jpg
+    senturia-info\mat-bang\mat-bang_TH4.jpg
+
+HASH E572D77EDB62B1287533DC0943F31FFC  (757803 bytes)  x2
+    senturia-com-vn\san-pham\san-pham_arena1.jpg
+    senturia-info\san-pham\san-pham_arena1.jpg
+
+HASH 2BD6BDC96BAC6C5F1ED54864BD197844  (637874 bytes)  x2
+    senturia-com-vn\san-pham\san-pham_arena2.jpg
+    senturia-info\san-pham\san-pham_arena2.jpg
+
+HASH 8E5A844D1173496BD189737DC9A35489  (796210 bytes)  x2
+    senturia-com-vn\san-pham\san-pham_arena3.jpg
+    senturia-info\san-pham\san-pham_arena3.jpg
+
+HASH FDEB8540763850066EDD4F56E8ED36C7  (370009 bytes)  x2
+    senturia-com-vn\thien-nhien\thien-nhien_about.jpg
+    senturia-info\thien-nhien\thien-nhien_about.jpg
+
+HASH 73B63CD205F215B0F6579F8715D848B4  (1005213 bytes)  x2
+    senturia-com-vn\thiet-ke\thiet-ke_architecture.jpg
+    senturia-info\hero\hero_architecture.jpg
+
+HASH 8DA437BA14681B2EE583F84CD35C5834  (280238 bytes)  x2
+    senturia-com-vn\tien-do\tien-do_process_T6.2026_1.jpg
+    senturia-info\tien-do\tien-do_process_T6.2026_1.jpg
+
+HASH 2E8F0229FC4AA0101E7F411C61A1A3CB  (194347 bytes)  x2
+    senturia-com-vn\tien-do\tien-do_process_T6.2026_2.jpg
+    senturia-info\tien-do\tien-do_process_T6.2026_2.jpg
+
+HASH 019483D7ABAD2D5BFCC78D6AFE9ED5D5  (231139 bytes)  x2
+    senturia-com-vn\tien-do\tien-do_process_T6.2026_3.jpg
+    senturia-info\tien-do\tien-do_process_T6.2026_3.jpg
+
+HASH 24CFEDAC001FD773DA455AF885497109  (311555 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-1.jpg
+    senturia-info\tien-ich\tien-ich_bf-1.jpg
+
+HASH EFD7175B9D108997A49A3CC590F236B0  (236894 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-10.jpg
+    senturia-info\tien-ich\tien-ich_bf-10.jpg
+
+HASH 390F09EABC1219E1FB6F5DF88EC2142E  (218578 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-11.jpg
+    senturia-info\tien-ich\tien-ich_bf-11.jpg
+
+HASH 2066E1DFFBAD15A964D16397B192B502  (226299 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-12.jpg
+    senturia-info\tien-ich\tien-ich_bf-12.jpg
+
+HASH 80E2740E18634D0463909732F205CA6B  (217847 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-2.jpg
+    senturia-info\tien-ich\tien-ich_bf-2.jpg
+
+HASH 95E4E8306BD798D8F26606AED89CB734  (151051 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-3.jpg
+    senturia-info\tien-ich\tien-ich_bf-3.jpg
+
+HASH 5A2812359EE2E16B1564DF665441AEEB  (423974 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-5.jpg
+    senturia-info\tien-ich\tien-ich_bf-5.jpg
+
+HASH 0DAF38B0A014A346F603B6C4FB5CE04B  (343050 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-6.jpg
+    senturia-info\tien-ich\tien-ich_bf-6.jpg
+
+HASH 2BD5B175ED770FD03C36BCB97CAAC767  (108352 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-8.jpg
+    senturia-info\tien-ich\tien-ich_bf-8.jpg
+
+HASH 9992D5CCE0B4D36BB019A25EF9127B1B  (108162 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_bf-9.jpg
+    senturia-info\tien-ich\tien-ich_bf-9.jpg
+
+HASH 5E0374A87689E204EB9BD44273CF0E84  (149186 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_phonggym.jpg
+    senturia-info\tien-ich\tien-ich_phonggym.jpg
+
+HASH CFF55D98F1469AA67340A3B272C76CE4  (38477 bytes)  x2
+    senturia-com-vn\tien-ich\tien-ich_sandanang.jpg
+    senturia-info\tien-ich\tien-ich_sandanang.jpg
+
+HASH A0E9BC1890A02415724A53029AC397A5  (3925 bytes)  x2
+    senturia-com-vn\ve-chung-toi\ve-chung-toi_FD.svg
+    senturia-info\doi-tac\doi-tac_FD.svg
+
+HASH C5E9B32BC95C1673EC275A8D007E3816  (8470 bytes)  x2
+    senturia-com-vn\ve-chung-toi\ve-chung-toi_NP.svg
+    senturia-info\doi-tac\doi-tac_NP.svg
+
+HASH 4C0001099728CA6835E827B98C61C216  (5937 bytes)  x2
+    senturia-com-vn\ve-chung-toi\ve-chung-toi_OO.svg
+    senturia-info\doi-tac\doi-tac_OO.svg
+
+HASH A54D5F5CA5D9357A5D8DEBE9617392FA  (2778 bytes)  x2
+    senturia-com-vn\ve-chung-toi\ve-chung-toi_SV.svg
+    senturia-info\doi-tac\doi-tac_SV.svg
+
+HASH D8484CE952F623CD324ED66925E396A3  (5317 bytes)  x2
+    senturia-com-vn\ve-chung-toi\ve-chung-toi_TP.svg
+    senturia-info\doi-tac\doi-tac_TP.svg
+
+HASH 126AEA4FFA6F4A8453C3D626A07B1B0B  (50397 bytes)  x2
+    senturia-com-vn\vi-tri\vi-tri_map_icons.svg
+    senturia-info\vi-tri\vi-tri_map_icons.svg
+
+HASH 8FAA5F817056B7EC2CD338999B68B45C  (6431 bytes)  x2
+    senturia-com-vn\vi-tri\vi-tri_map_road.svg
+    senturia-info\vi-tri\vi-tri_map_road.svg
+
+HASH 8329F88E5429FFE19581E6D92B50E0BA  (346278 bytes)  x2
+    senturia-com-vn\vi-tri\vi-tri_map_text.svg
+    senturia-info\vi-tri\vi-tri_map_text.svg
+
+HASH 4FDF615B365C3E163F63243554F2FDB5  (48830 bytes)  x2
+    senturia-com-vn\vi-tri\vi-tri_map_water.svg
+    senturia-info\vi-tri\vi-tri_map_water.svg
+
