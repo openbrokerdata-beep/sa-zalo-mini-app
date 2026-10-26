@@ -1,0 +1,18 @@
+<svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_574_41342" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="51" height="51">
+<rect width="50.1406" height="50.1406" transform="matrix(-1 0 0 1 50.1406 0)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_574_41342)">
+<path d="M29.1962 37.605L32.1211 34.5756L24.7044 27.159L22.4055 25.0698L24.7044 22.9806L32.1211 15.564L29.1962 12.5347L16.661 25.0698L29.1962 37.605Z" fill="url(#paint0_radial_574_41342)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_574_41342" cx="0" cy="0" r="1" gradientTransform="matrix(20.6939 1.17227 0.406629 -59.658 18.4567 36.4327)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6C9458"/>
+<stop offset="0.15" stop-color="#49692E"/>
+<stop offset="0.3" stop-color="#284B2C"/>
+<stop offset="0.5" stop-color="#1C3D2B"/>
+<stop offset="0.75" stop-color="#193326"/>
+<stop offset="1" stop-color="#152E27"/>
+</radialGradient>
+</defs>
+</svg>

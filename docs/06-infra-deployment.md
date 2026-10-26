@@ -64,7 +64,7 @@ vercel deploy --prod   # production
 ## 5. Assets (ảnh)
 
 - Nguồn: `images/` (không sửa). Lệnh `pnpm assets:optimize` → `apps/api/public/media/<group>/<name>.webp|svg` + `manifest.json`.
-- `apps/api/public/media` **không commit** (sinh lại khi build trên Vercel/CI).
+- `apps/api/public/media` **được commit vào git** (Vercel không chạy bước sinh ảnh khi build). Đổi/thêm ảnh → chạy `pnpm assets:optimize` rồi commit thư mục này.
 - Thêm ảnh mới: đặt vào `images/<site>/<group>/<group>_<name>.<ext>` → chạy lệnh → tham chiếu `"<group>/<name>.webp"` trong `content/project.ts` → `pnpm test` (test kiểm đường dẫn tồn tại).
 - Đổi nội dung ảnh: **đổi tên file** (cache immutable 1 năm).
 - Video (`hero_kety.mp4`, 6 MB): chỉ xuất khi `--with-video`; nếu dùng cho hero cần nén lại (≤ 1,5 MB, 720p, H.264) — task AS-01.
