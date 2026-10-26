@@ -1,5 +1,6 @@
 import type { EnrichedLead } from "@sa/shared";
 import { hmacHex } from "../lib/crypto";
+import { httpFetch } from "../lib/http";
 import { type LeadSink, PermanentSinkError } from "./types";
 
 export interface CrmWebhookConfig {
@@ -46,7 +47,7 @@ export class CrmWebhookSink implements LeadSink {
     if (this.cfg.secret) headers["X-Signature"] = `sha256=${hmacHex(this.cfg.secret, body)}`;
     if (this.cfg.apiKey) headers.Authorization = `Bearer ${this.cfg.apiKey}`;
 
-    const res = await fetch(this.cfg.url, { method: "POST", headers, body, signal });
+    const res = await httpFetch(this.cfg.url, { method: "POST", headers, body, signal });
     if (res.ok || res.status === 409) return; // 409 = đã tồn tại theo idempotency key → coi như thành công
     const msg = `CRM ${res.status}: ${(await res.text()).slice(0, 300)}`;
     if (res.status >= 400 && res.status < 500 && res.status !== 429)

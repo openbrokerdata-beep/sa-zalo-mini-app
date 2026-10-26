@@ -4,6 +4,7 @@ import { bodyLimit } from "hono/body-limit";
 import { cors } from "hono/cors";
 import { secureHeaders } from "hono/secure-headers";
 import type { Env } from "./env";
+import { httpFetch } from "./lib/http";
 import { MemoryIdempotencyStore } from "./lib/idempotency";
 import { log } from "./lib/logger";
 import { MemoryRateLimiter } from "./lib/rate-limit";
@@ -34,7 +35,7 @@ export function createApp(deps: AppDeps) {
       deps.env.RATE_LIMIT_WINDOW_SEC * 1000,
     ),
     idempotency: new MemoryIdempotencyStore(),
-    fetchImpl: fetch,
+    fetchImpl: httpFetch,
     ...deps,
   };
   const { env } = resolved;
