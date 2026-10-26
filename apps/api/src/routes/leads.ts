@@ -8,7 +8,7 @@ import {
   toE164Vn,
 } from "@sa/shared";
 import { type Context, Hono } from "hono";
-import type { ResolvedDeps } from "../app.js";
+import type { ResolvedDeps } from "../create-app.js";
 import { newLeadId, sha256Hex } from "../lib/crypto.js";
 import { dispatchLead } from "../lib/dispatch.js";
 import { log } from "../lib/logger.js";

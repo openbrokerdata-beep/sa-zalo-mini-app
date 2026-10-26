@@ -1,7 +1,7 @@
 // Entrypoint cho Vercel (Hono zero-config): export default 1 Hono app.
 // Lưu ý: package là ESM và Vercel không bundle → import tương đối PHẢI có đuôi ".js".
 import { Hono } from "hono";
-import { createApp } from "./app.js";
+import { createApp } from "./create-app.js";
 import { loadEnv } from "./env.js";
 
 function bootstrap() {

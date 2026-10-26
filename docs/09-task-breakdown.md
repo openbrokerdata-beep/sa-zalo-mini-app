@@ -89,7 +89,7 @@ flowchart TB
 
 #### BE-01 · API vận hành: request-id, replay, health sâu
 - **Agent:** `general-purpose` → `api-optimizer` (review)
-- **Sở hữu file:** `apps/api/src/lib/**`, `apps/api/src/app.ts`, `apps/api/test/**`, `scripts/replay-lead.mjs` (mới)
+- **Sở hữu file:** `apps/api/src/lib/**`, `apps/api/src/create-app.ts`, `apps/api/test/**`, `scripts/replay-lead.mjs` (mới)
 - **Việc:**
   1. Middleware `x-request-id` (sinh nếu thiếu) → có trong mọi log + header response.
   2. `scripts/replay-lead.mjs`: đọc file JSON (các lead từ log `lead.sink_failed`) → gọi lại sink chỉ định bằng chính code sink của API (idempotent theo `submissionId`). Có `--dry-run`.

@@ -119,7 +119,7 @@ SA_ZALO-MINI-APP/
 │     ├─ src/
 │     │  ├─ index.ts               # entry Vercel (export default app)
 │     │  ├─ dev.ts                 # server local :8787 (+ phục vụ /media)
-│     │  ├─ app.ts                 # createApp(deps) — DI để test
+│     │  ├─ create-app.ts          # createApp(deps) — DI để test (KHÔNG đặt tên app.ts: Vercel nhận nhầm làm entry)
 │     │  ├─ env.ts                 # schema biến môi trường
 │     │  ├─ routes/                # leads.ts, zalo.ts
 │     │  ├─ sinks/                 # console, sheets, crm-webhook, registry
