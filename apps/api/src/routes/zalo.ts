@@ -1,7 +1,7 @@
 import type { ApiError, ZaloPhoneResponse } from "@sa/shared";
 import { Hono } from "hono";
 import { z } from "zod";
-import type { ResolvedDeps } from "../app.js";
+import type { ResolvedDeps } from "../create-app.js";
 import { log } from "../lib/logger.js";
 import { signPhoneProof } from "../lib/phone-proof.js";
 import { fetchZaloPhone, ZaloApiError } from "../lib/zalo.js";
