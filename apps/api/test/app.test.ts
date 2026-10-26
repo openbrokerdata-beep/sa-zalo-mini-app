@@ -3,6 +3,7 @@ import { beforeEach, describe, expect, it, vi } from "vitest";
 import { createApp } from "../src/app";
 import { loadEnv } from "../src/env";
 import { signPhoneProof, verifyPhoneProof } from "../src/lib/phone-proof";
+import type { FetchLike } from "../src/lib/zalo";
 import { toSheetRow } from "../src/sinks/sheets";
 import { type LeadSink, PermanentSinkError } from "../src/sinks/types";
 
@@ -145,7 +146,7 @@ describe("POST /v1/zalo/phone", () => {
     const fetchImpl = vi.fn(async () =>
       Response.json({ error: 0, message: "Success", data: { number: "849123456789" } }),
     );
-    const app = createApp({ env, sinks: [], fetchImpl: fetchImpl as unknown as typeof fetch });
+    const app = createApp({ env, sinks: [], fetchImpl: fetchImpl as unknown as FetchLike });
     const res = await post(app, "/v1/zalo/phone", { code: "tok", accessToken: "at" });
     expect(res.status).toBe(200);
     const body = (await res.json()) as { phone: string; phoneProof: string };
@@ -162,7 +163,7 @@ describe("POST /v1/zalo/phone", () => {
   it("maps Zalo errors to 502", async () => {
     vi.spyOn(console, "warn").mockImplementation(() => {});
     const fetchImpl = async () => Response.json({ error: -201, message: "invalid code" });
-    const app = createApp({ env, sinks: [], fetchImpl: fetchImpl as unknown as typeof fetch });
+    const app = createApp({ env, sinks: [], fetchImpl: fetchImpl as unknown as FetchLike });
     expect((await post(app, "/v1/zalo/phone", { code: "x", accessToken: "y" })).status).toBe(502);
   });
 });

@@ -1,5 +1,6 @@
 import type { EnrichedLead } from "@sa/shared";
 import { JWT } from "google-auth-library";
+import { httpFetch } from "../lib/http";
 import { type LeadSink, PermanentSinkError } from "./types";
 
 export interface SheetsConfig {
@@ -77,7 +78,7 @@ export class GoogleSheetsSink implements LeadSink {
       `https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(this.cfg.spreadsheetId)}` +
       `/values/${encodeURIComponent(this.cfg.range)}:append?valueInputOption=RAW&insertDataOption=INSERT_ROWS`;
     // RAW: giữ số 0 đầu SĐT và chặn formula injection (=HYPERLINK…) từ input người dùng.
-    const res = await fetch(url, {
+    const res = await httpFetch(url, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
       body: JSON.stringify({ values: [toSheetRow(lead)] }),
