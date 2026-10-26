@@ -1,7 +1,7 @@
 import type { EnrichedLead } from "@sa/shared";
-import { hmacHex } from "../lib/crypto";
-import { httpFetch } from "../lib/http";
-import { type LeadSink, PermanentSinkError } from "./types";
+import { hmacHex } from "../lib/crypto.js";
+import { httpFetch } from "../lib/http.js";
+import { type LeadSink, PermanentSinkError } from "./types.js";
 
 export interface CrmWebhookConfig {
   url: string;

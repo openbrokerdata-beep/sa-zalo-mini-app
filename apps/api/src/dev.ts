@@ -2,8 +2,8 @@
 import { serve } from "@hono/node-server";
 import { serveStatic } from "@hono/node-server/serve-static";
 import { Hono } from "hono";
-import { createApp } from "./app";
-import { loadEnv } from "./env";
+import { createApp } from "./app.js";
+import { loadEnv } from "./env.js";
 
 try {
   process.loadEnvFile(".env");

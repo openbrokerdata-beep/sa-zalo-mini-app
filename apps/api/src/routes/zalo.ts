@@ -1,10 +1,10 @@
 import type { ApiError, ZaloPhoneResponse } from "@sa/shared";
 import { Hono } from "hono";
 import { z } from "zod";
-import type { ResolvedDeps } from "../app";
-import { log } from "../lib/logger";
-import { signPhoneProof } from "../lib/phone-proof";
-import { fetchZaloPhone, ZaloApiError } from "../lib/zalo";
+import type { ResolvedDeps } from "../app.js";
+import { log } from "../lib/logger.js";
+import { signPhoneProof } from "../lib/phone-proof.js";
+import { fetchZaloPhone, ZaloApiError } from "../lib/zalo.js";
 
 const phoneRequestSchema = z.object({
   code: z.string().min(1).max(2048),
