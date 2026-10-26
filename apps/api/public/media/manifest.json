@@ -1,0 +1,587 @@
+{
+  "banner/banner1-mb.webp": {
+    "width": 540,
+    "height": 960,
+    "bytes": 27010
+  },
+  "banner/banner1.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 32574
+  },
+  "banner/banner2-mb.webp": {
+    "width": 1080,
+    "height": 1920,
+    "bytes": 162250
+  },
+  "banner/banner2.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 48928
+  },
+  "banner/banner3-mb.webp": {
+    "width": 1080,
+    "height": 1920,
+    "bytes": 226146
+  },
+  "banner/banner3.webp": {
+    "width": 1080,
+    "height": 607,
+    "bytes": 109720
+  },
+  "banner/banner4-mb.webp": {
+    "width": 1080,
+    "height": 1920,
+    "bytes": 288304
+  },
+  "banner/banner4.webp": {
+    "width": 1080,
+    "height": 607,
+    "bytes": 117624
+  },
+  "banner/banner5-mb.webp": {
+    "width": 1080,
+    "height": 1920,
+    "bytes": 293710
+  },
+  "banner/banner5.webp": {
+    "width": 1080,
+    "height": 607,
+    "bytes": 119912
+  },
+  "footer/logo_footer.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 10688
+  },
+  "footer/silk.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 7762
+  },
+  "header-logo/dark_logo.webp": {
+    "width": 111,
+    "height": 80,
+    "bytes": 1888
+  },
+  "header-logo/logo.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 6579
+  },
+  "header-logo/logo_mb.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 10758
+  },
+  "header-logo/logo_text.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 10725
+  },
+  "hero/hero-ldp-mb.webp": {
+    "width": 750,
+    "height": 1280,
+    "bytes": 92908
+  },
+  "hinh-anh-du-an/kv-mb.webp": {
+    "width": 750,
+    "height": 486,
+    "bytes": 99170
+  },
+  "hinh-anh-du-an/kv.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 129478
+  },
+  "mat-bang/arena.webp": {
+    "width": 1920,
+    "height": 1080,
+    "bytes": 455282
+  },
+  "mat-bang/arena_detail.webp": {
+    "width": 1920,
+    "height": 1080,
+    "bytes": 394178
+  },
+  "mat-bang/SD1.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 38822
+  },
+  "mat-bang/SH1.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 33434
+  },
+  "mat-bang/SH2.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 34916
+  },
+  "mat-bang/SH3.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 34262
+  },
+  "mat-bang/TH1.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 30496
+  },
+  "mat-bang/TH2.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 35454
+  },
+  "mat-bang/TH3.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 34028
+  },
+  "mat-bang/TH4.webp": {
+    "width": 1440,
+    "height": 810,
+    "bytes": 37580
+  },
+  "popup/overlay_menu.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 6904
+  },
+  "popup/pop-up.webp": {
+    "width": 1080,
+    "height": 617,
+    "bytes": 126120
+  },
+  "popup/pop_up_mb.webp": {
+    "width": 343,
+    "height": 630,
+    "bytes": 70998
+  },
+  "quy-hoach/legacy_1.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 2365
+  },
+  "quy-hoach/legacy_2.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 761
+  },
+  "quy-hoach/legacy_3.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 4187
+  },
+  "quy-hoach/silk.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 7762
+  },
+  "san-pham/arena1-1.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 163502
+  },
+  "san-pham/arena1-2.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 84928
+  },
+  "san-pham/arena1-3.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 88572
+  },
+  "san-pham/arena1-3-png.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 24622
+  },
+  "san-pham/arena1-4.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 34186
+  },
+  "san-pham/arena1-5.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 86678
+  },
+  "san-pham/arena1-6.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 52066
+  },
+  "san-pham/arena1-7.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 61932
+  },
+  "san-pham/arena1.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 151394
+  },
+  "san-pham/arena2-0.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 164854
+  },
+  "san-pham/arena2-1.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 70036
+  },
+  "san-pham/arena2-2.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 51438
+  },
+  "san-pham/arena2-3.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 20292
+  },
+  "san-pham/arena2.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 153824
+  },
+  "san-pham/arena3-0.webp": {
+    "width": 1080,
+    "height": 675,
+    "bytes": 138994
+  },
+  "san-pham/arena3-1.webp": {
+    "width": 1080,
+    "height": 470,
+    "bytes": 48682
+  },
+  "san-pham/arena3-2.webp": {
+    "width": 1080,
+    "height": 468,
+    "bytes": 37710
+  },
+  "san-pham/arena3-3.webp": {
+    "width": 1080,
+    "height": 467,
+    "bytes": 33744
+  },
+  "san-pham/arena3-4.webp": {
+    "width": 1080,
+    "height": 473,
+    "bytes": 35020
+  },
+  "san-pham/arena3.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 119842
+  },
+  "thien-nhien/about-ldp-mb.webp": {
+    "width": 750,
+    "height": 1280,
+    "bytes": 93552
+  },
+  "thien-nhien/about.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 68894
+  },
+  "thiet-ke/architecture.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 77776
+  },
+  "thiet-ke/design-ldp-mb.webp": {
+    "width": 750,
+    "height": 1598,
+    "bytes": 157986
+  },
+  "tien-do/process1.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 105046
+  },
+  "tien-do/process2.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 159044
+  },
+  "tien-do/process3.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 119128
+  },
+  "tien-do/process4.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 118798
+  },
+  "tien-do/process5.webp": {
+    "width": 1080,
+    "height": 1440,
+    "bytes": 204910
+  },
+  "tien-do/process6.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 131240
+  },
+  "tien-do/process7.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 111804
+  },
+  "tien-do/process8.webp": {
+    "width": 1080,
+    "height": 810,
+    "bytes": 108566
+  },
+  "tien-do/process_T6.2026_1.webp": {
+    "width": 1024,
+    "height": 576,
+    "bytes": 155406
+  },
+  "tien-do/process_T6.2026_2.webp": {
+    "width": 1000,
+    "height": 563,
+    "bytes": 118842
+  },
+  "tien-do/process_T6.2026_3.webp": {
+    "width": 1000,
+    "height": 563,
+    "bytes": 143678
+  },
+  "tien-do/process_T6.2026_4.webp": {
+    "width": 1080,
+    "height": 720,
+    "bytes": 83012
+  },
+  "tien-ich/bf-1.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 114982
+  },
+  "tien-ich/bf-10.webp": {
+    "width": 1080,
+    "height": 555,
+    "bytes": 81190
+  },
+  "tien-ich/bf-11.webp": {
+    "width": 1080,
+    "height": 690,
+    "bytes": 120796
+  },
+  "tien-ich/bf-12.webp": {
+    "width": 1080,
+    "height": 561,
+    "bytes": 111172
+  },
+  "tien-ich/bf-2.webp": {
+    "width": 1080,
+    "height": 603,
+    "bytes": 64796
+  },
+  "tien-ich/bf-3.webp": {
+    "width": 1080,
+    "height": 792,
+    "bytes": 100502
+  },
+  "tien-ich/bf-5.webp": {
+    "width": 1080,
+    "height": 678,
+    "bytes": 162344
+  },
+  "tien-ich/bf-6.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 134030
+  },
+  "tien-ich/bf-8.webp": {
+    "width": 928,
+    "height": 1232,
+    "bytes": 76574
+  },
+  "tien-ich/bf-9.webp": {
+    "width": 896,
+    "height": 1200,
+    "bytes": 81966
+  },
+  "tien-ich/phonggym.webp": {
+    "width": 1080,
+    "height": 461,
+    "bytes": 60496
+  },
+  "tien-ich/sandanang.webp": {
+    "width": 567,
+    "height": 363,
+    "bytes": 32872
+  },
+  "tin-tuc/01_dau-la-tam-diem-an-cu-dau-tu.webp": {
+    "width": 768,
+    "height": 460,
+    "bytes": 48784
+  },
+  "tin-tuc/02_thanh-toan-chi-tu-30.webp": {
+    "width": 800,
+    "height": 450,
+    "bytes": 69600
+  },
+  "tin-tuc/03_don-song-metro-cao-toc-bac-nam.webp": {
+    "width": 1080,
+    "height": 743,
+    "bytes": 187894
+  },
+  "tin-tuc/04-hap-dan-gioi-tinh-hoa.webp": {
+    "width": 1080,
+    "height": 607,
+    "bytes": 124086
+  },
+  "tin-tuc/05_phap-ly-chuan-chinh-hang-dau.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 31434
+  },
+  "tin-tuc/06_home-resort-thien-nhien.webp": {
+    "width": 1080,
+    "height": 607,
+    "bytes": 155012
+  },
+  "ui/arrow_left.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 272
+  },
+  "ui/arrow_left_alt_green.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 994
+  },
+  "ui/arrow_right.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 258
+  },
+  "ui/arrow_right_alt_green.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 958
+  },
+  "ui/arrow_right_alt_green_link.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 535
+  },
+  "ui/calendar.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 626
+  },
+  "ui/thumbnail.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 93946
+  },
+  "ve-chung-toi/FD.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 3925
+  },
+  "ve-chung-toi/NP.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 8470
+  },
+  "ve-chung-toi/OO.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 5937
+  },
+  "ve-chung-toi/SV.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 2778
+  },
+  "ve-chung-toi/TP.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 5317
+  },
+  "vi-tri/beach.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 2390
+  },
+  "vi-tri/map_icons.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 50397
+  },
+  "vi-tri/map_road.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 6431
+  },
+  "vi-tri/map_text.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 346278
+  },
+  "vi-tri/map_water.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 48830
+  },
+  "vi-tri/market.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 4265
+  },
+  "vi-tri/plane_o.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 566
+  },
+  "doi-tac/FD.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 3925
+  },
+  "doi-tac/NP.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 8470
+  },
+  "doi-tac/OO.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 5937
+  },
+  "doi-tac/pca.webp": {
+    "width": 808,
+    "height": 332,
+    "bytes": 12182
+  },
+  "doi-tac/SV.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 2778
+  },
+  "doi-tac/TP.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 5317
+  },
+  "favicon/favicon.svg": {
+    "width": null,
+    "height": null,
+    "bytes": 227
+  },
+  "hero/architecture.webp": {
+    "width": 1080,
+    "height": 608,
+    "bytes": 77776
+  }
+}
